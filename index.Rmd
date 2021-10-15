@@ -1,0 +1,39 @@
+---
+output: 
+  html_document:
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# <span style="color: #2596BE;">Usability, User Diversity und Technikakzeptanz</span>
+
+</br>
+
+### Seminartermine
+
+</br>
+
+| Datum  | Thema                                                               |
+|:-------|:--------------------------------------------------------------------|
+| 14.10. | Einführung, Organisation, Termine                                   |
+| 21.10. | Input: Einführung des Forschungsthemas                              |
+| 28.10. | Input: Use Case Präsentation & Literaturrecherche und -analyse      |
+| 04.11. | <span style="color: #2596BE;">Pitch I</span> - Stand der Forschung  |
+| 11.11. | Interactive Classroom - Forschungsvorhaben vorbereiten              |
+| 18.11. | Interactive Classroom - Operationalisierung                         |
+| 25.11. | Interactive Classroom - Durchführung & Tools                        |
+| 02.12. | <span style="color: #2596BE;">Pitch II</span> - Forschungsvorhaben  |
+| 09.12. | Interactive Classroom - Pretest & Feedback                          |
+| 16.12. | Sprechstunde                                                        |
+| 23.12. | Sprechstunde                                                        |
+| 30.12. | Kein Termin (Akquise)                                               |
+| 06.01. | Kein Termin (Akquise)                                               |
+| 13.01. | Interactive Classroom - Datenübersicht & Fragen zur Auswertung      |
+| 20.01. | Sprechstunde                                                        |
+| 27.01. | Sprechstunde                                                        |
+| 03.02. | <span style="color: #2596BE;">Pitch III</span> - Ergebnisse         |
+| ?      | Abgabe der Projektarbeit                                            |
+
